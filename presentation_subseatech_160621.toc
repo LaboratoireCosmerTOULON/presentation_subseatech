@@ -1,0 +1,5 @@
+\beamer@endinputifotherversion {3.24pt}
+\beamer@sectionintoc {1}{Le contexte de la de th\IeC {\`e}se}{2}{0}{1}
+\beamer@sectionintoc {2}{Premi\IeC {\`e}re manipulation}{7}{0}{2}
+\beamer@sectionintoc {3}{D\IeC {\'e}veloppement courant}{25}{0}{3}
+\beamer@sectionintoc {4}{Conclusions et Perspectives}{54}{0}{4}
